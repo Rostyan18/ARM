@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LeftARM.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\Rostyan\Desktop\ARM\LeftARM\Students.h(24,21): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rostyan\Desktop\ARM\LeftARM\Students.h(40,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rostyan\Desktop\ARM\LeftARM\MyForm.h(275,38): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LeftARM.vcxproj -> C:\Users\Rostyan\Desktop\ARM\x64\Debug\ARM.exe
